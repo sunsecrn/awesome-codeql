@@ -1,4 +1,6 @@
-# Another Awesome CodeQL 🕵️
+
+![image](https://github.com/user-attachments/assets/50cb48ed-2e79-4306-9829-0aa4bcedea9e)
+
 
 > A curated list of awesome CodeQL resources, queries, and learning materials — from community scripts to research-grade experiments.
 
